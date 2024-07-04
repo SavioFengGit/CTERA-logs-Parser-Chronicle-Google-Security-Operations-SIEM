@@ -2,7 +2,7 @@
 In this repository, you will find a custom Chronicle SIEM Parser that I have written to normalize raw logs into a Unified Data Model.
 
 ## Description 
-I had to write a custom parser to normalize raw logs from the CTERA drive, and I want to share my code (not complete, but useful) with all of u. 
+I had to write a custom parser to normalize raw logs from the CTERA drive, because currently, there is no CTERA parser on Chronicle SIEM and I want to share my code (not complete, but useful) with all of you. 
 
 There are 5 types of logs in CTERA:
  - System – General CTERA Edge Filer events, including starting up, connecting to the network and the CTERA Portal, disconnecting from the network and the CTERA Portal.
