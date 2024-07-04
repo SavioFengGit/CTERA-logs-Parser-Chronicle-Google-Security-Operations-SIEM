@@ -12,7 +12,7 @@ There are 5 types of logs in CTERA:
  - Audit – Changes to the CTERA Edge Filer configuration.
    
 <br>
-In this code i managed Cloud Sync, Access and some System log type.
+In this code i cover Cloud Sync, Access and some System log type.
 
 <br><br>
 
